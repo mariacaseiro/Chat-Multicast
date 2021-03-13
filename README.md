@@ -1,4 +1,6 @@
 # Chat Multicast
+Author: María Caseiro Arias
+
 ### Multicast chat implemented on JavaFX
 ### Chat multicast implementado en JavaFX
 ----------------------------------------------
